@@ -19,5 +19,5 @@ def rotateArray(arr,k,l):
     rev(arr,0,k-1)
     rev(arr,k,l-1)
     print(arr)
-arr = [1,2,3,4,5,6,7]
+arr = [1,2,3,4,5]
 rotateArray(arr,3,len(arr))

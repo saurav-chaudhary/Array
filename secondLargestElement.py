@@ -15,3 +15,5 @@ def secondLargestElement(l):
 
 l=[10,24,45,9,32,56,45]
 print(secondLargestElement(l))
+
+
